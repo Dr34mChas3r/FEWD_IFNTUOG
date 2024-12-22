@@ -1,0 +1,5 @@
+![screencapture-file-C-Users-serhiy-Documents-education-education-lab6-list-html-2024-11-02-19_36_47](https://github.com/user-attachments/assets/4ae43b5d-9113-416d-9164-dba3fb53f105)
+![screencapture-file-C-Users-serhiy-Documents-education-education-lab6-schedule-html-2024-11-02-19_36_50](https://github.com/user-attachments/assets/a78c4bdc-6c1b-4707-ab5f-b54477e0934d)
+![screencapture-file-C-Users-serhiy-Documents-education-education-lab6-gallery-html-2024-11-02-19_36_54](https://github.com/user-attachments/assets/3fac4fa8-4bce-431d-8674-c55ffc6c567b)
+![screencapture-file-C-Users-serhiy-Documents-education-education-lab6-emailsubscribe-html-2024-11-02-19_37_05](https://github.com/user-attachments/assets/e254a1db-ed29-4aab-97df-8ac8cec014f4)
+![screencapture-file-C-Users-serhiy-Documents-education-education-lab6-index-html-2024-11-02-19_36_43](https://github.com/user-attachments/assets/e34cc8de-587d-4dea-9a79-80e979344df1)
